@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "FDRsampsize"]
 	path = FDRsampsize
 	url = https://github.com/cran/FDRsampsize
-	shallow = true
-	registered = true
 [submodule "PROMISE"]
 	path = PROMISE
 	url = https://git.bioconductor.org/packages/PROMISE
-	shallow = true
-	registered = true
