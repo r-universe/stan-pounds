@@ -5,6 +5,3 @@
 [submodule "FDRsampsize"]
 	path = FDRsampsize
 	url = https://github.com/cran/FDRsampsize
-[submodule "PROMISE"]
-	path = PROMISE
-	url = https://git.bioconductor.org/packages/PROMISE
